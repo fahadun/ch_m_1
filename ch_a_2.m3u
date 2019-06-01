@@ -10,3 +10,33 @@ http://tinyurl.com/lmgto24
 
 #EXTINF:-1,Willow Cricket
 rtmp://$OPT:rtmp-raw=rtmp://80.82.78.15:443/liverepeater playpath=38 live=1 pageUrl=http://popeoftheplayers.pw/Vd?u#bt!25 timeout=15 token=#atd%#$ZH timeout=15
+
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",MAASRANGA HQ
+http://118.179.35.11/hls/MaasrangaSetxBQz5ait/05.m3u8
+
+#EXTINF:-1 tvg-logo="http://dhakaonair.com/wp-content/uploads/2013/11/MASRANGA.png",[COLOR orange]MAASRANGA LQ[/COLOR]
+http://130.185.144.63:8081/bang/MASRANGATV/chunks.m3u8?
+
+
+#EXTINF:-1 tvg-logo="https://ibb.co/gQH2P5",[COLOR red]GAZI TV[/COLOR]
+http://192.243.101.159:8081/livetv/gazitv/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="http://www.use.com/Mnx4Y",[COLOR green]GAZI TV[/COLOR]
+http://130.185.144.63:8081/bang/GTV/chunks.m3u8?
+
+#EXTINF:-1,UK: Sky Sport 1
+http://aziptv.mine.nu:8000/live/bento/bento/123.m3u8
+#EXTINF:-1,UK: Sky Sport 2
+http://aziptv.mine.nu:8000/live/bento/bento/122.m3u8
+#EXTINF:-1,UK: Sky Sport 3
+http://aziptv.mine.nu:8000/live/bento/bento/121.m3u8
+#EXTINF:-1,UK: Sky Sport 4
+http://aziptv.mine.nu:8000/live/bento/bento/120.m3u8
+#EXTINF:-1,UK: Sky Sport 5
+http://aziptv.mine.nu:8000/live/bento/bento/119.m3u8
+#EXTINF:-1,DE: SKY SPORTS 1
+http://aziptv.mine.nu:8000/live/bento/bento/127.m3u8
+#EXTINF:-1,DE: SKY SPORTS 2
+http://aziptv.mine.nu:8000/live/bento/bento/126.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 1
+http://aziptv.mine.nu:8000/live/bento/bento/252.m3u8
